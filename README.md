@@ -1,4 +1,4 @@
-# odin-chess
+# odin-raylib-chess
 
 Motor de xadrez em Odin + raylib. Projeto de estudo.
 
